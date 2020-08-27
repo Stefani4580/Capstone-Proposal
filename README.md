@@ -9,16 +9,14 @@ Nail Art Resale will allow the user to create a list of items, read a list of it
 - Nail Art Tools
 
 # Wireframe of your application
-These wireframes don't have to be production grade wireframes or hi-fidelity
-They have to be a general guide as to how the components would be created and used once your project is created
-Should have a wireframe for every page you will create for your application
-NOTE: Page and components could be different. You don't need a wireframe for every component. Although it wouldn't hurt to have a description of how every component would look
+https://balsamiq.cloud/s6v30or/po066qg
+
 # Libraries (if applicable)
-Which libraries you decide to use
-The specific functionality of each library
-What each library helps accomplish/make easier. Or what problem they solve.
+I am going investigate using SAAS for this project.
+
 # Post MVP
 - Add User Login Functionality
 - Add Shopping Cart
+
 # Projected Schedule
 TBD
